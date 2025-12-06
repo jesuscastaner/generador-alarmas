@@ -24,7 +24,7 @@ public class ClientManager implements Runnable {
             int bytesRead = is.read(buffer);
 
             if (bytesRead != -1) {
-                // imprimir input del cliente en la consola (para debug)
+                // imprimir input del cliente en la consola
                 String input = new String(buffer, 0, bytesRead).trim();
                 System.out.println("Input del cliente: " + input);
 

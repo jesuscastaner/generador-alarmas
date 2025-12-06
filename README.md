@@ -2,6 +2,7 @@
 
 - Alumno: **JESÚS CASTAÑER MORENO**
 - Fecha: 06/12/2025
+- [Repositorio de Github](https://github.com/jesuscastaner/generador-alarmas)
 
 El proyecto está estructurado en dos paquetes: `server` y `client`, representando los lados del servidor y del cliente, respectivamente.
 
